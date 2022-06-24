@@ -3,6 +3,7 @@
   - Currently learning Flutter and Machine Learning with python as I work on my Bachelor Thesis.
   - Learning vim(neovim) and docker.
   - Using Arch Linux as my main OS.
+  - FOSS enthusiast.
 
 <p align="center">
     <a href="https://skillicons.dev">
