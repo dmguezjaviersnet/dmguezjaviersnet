@@ -13,4 +13,4 @@
 
 ### Niemals Aufgeben :de:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmguezjaviersnet&show_icons=true&theme=darcula)
