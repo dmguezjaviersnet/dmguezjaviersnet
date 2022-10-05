@@ -4,28 +4,14 @@
   - :free: FOSS and vim(neovim) enthusiast.
 
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-00ADD8?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0095D5?&style=for-the-badge&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![Vim](https://img.shields.io/badge/NeoVim-E34F8?style=for-the-badge&logo=neovim&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "My main version control system")
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![docker](https://img.shields.io/badge/docker-011111?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-D0021B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-00ff0?style=for-the-badge&logo=android&logoColor=white)
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,dart,flutter,bash,linux,neovim" />
+        <img src="https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,dart,flutter,html,css,js,bash,linux,neovim" />
     </a>
 </p>
 
