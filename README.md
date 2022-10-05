@@ -1,9 +1,7 @@
 ### Hello every1!!! :wave:. I'm Javier . 
-  - CS student at [@matcom](https://github.com/matcom).
-  - Currently learning Flutter and Machine Learning with python as I work on my Bachelor Thesis.
-  - Learning vim(neovim) and docker.
-  - Using Arch Linux as my main OS.
-  - FOSS enthusiast.
+  - :school::writing_hand: Currently learning Flutter and Machine Learning with python as I work on my Bachelor Thesis.
+  - :computer: Using Arch Linux as my main OS.
+  - :free: FOSS and vim(neovim) enthusiast.
 
 <p align="center">
     <a href="https://skillicons.dev">
