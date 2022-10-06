@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
     <img src="https://img.shields.io/badge/Android-00ff0?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/awesomeWM-lightblue?style=for1793D1badge&logo=awesomewm&logoColor=white" />
+    <img src="https://img.shields.io/badge/awesomeWM-1793D1?style=for-the-badge&logo=awesomewm&logoColor=white" />
 </p>
 
 
