@@ -1,5 +1,6 @@
 ### Hello every1!!! :wave:. I'm Javier . 
-  - :school::writing_hand: Currently learning Flutter and Machine Learning with python as I work on my Bachelor Thesis.
+  - :school: Computer Scientist.
+  - :writing_hand: Learning backend development with .NET and frontend with JS.
   - :computer: Using Arch Linux as my main OS.
   - :free: FOSS and vim(neovim) enthusiast.
 
@@ -16,7 +17,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,docker,python,c,cpp,cs,dart,flutter,latex,html,css,js,bash,linux,neovim" />
+        <img src="https://skillicons.dev/icons?i=git,docker,flutter,dotnet,python,c,cpp,cs,dart,latex,html,css,js,bash,linux,neovim" />
     </a>
 </p>
 
